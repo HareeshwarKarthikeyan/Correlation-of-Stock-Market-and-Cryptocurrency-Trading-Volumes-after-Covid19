@@ -1,3 +1,5 @@
+# Original by Hareeshwar Karthikeyan
+
 # ANALYSIS TASK 3
 #  Is there any correlation in the time series data to see if the crypto trends reflect the stock trends in price and volume changes?
 

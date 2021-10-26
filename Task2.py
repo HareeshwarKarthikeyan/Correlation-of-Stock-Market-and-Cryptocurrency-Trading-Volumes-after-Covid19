@@ -1,3 +1,5 @@
+# Original by Hareeshwar Karthikeyan
+
 # ANALYSIS TASK 2
 # How similar is the directional nature (positive and negative) of the changes in the price and volume in the markets before and after covid hit?
 

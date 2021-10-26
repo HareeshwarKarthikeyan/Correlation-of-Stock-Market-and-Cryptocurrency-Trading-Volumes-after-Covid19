@@ -1,3 +1,9 @@
+# Original by Hareeshwar Karthikeyan
+
+# NOTE:
+# When running in hadoop cluster, the figures may not be visible and might throw some errors.
+# Hence, the visualisation figures have been obtained by running them on the local machine.
+
 # Analysis question 1
 # How do the overall comparisons of price and volume changes across the markets look like?
 
